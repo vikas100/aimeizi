@@ -1,0 +1,16 @@
+PODS:
+  - JDStatusBarNotification (1.4.8)
+  - MTStatusBarOverlay (0.9.1)
+  - SVProgressHUD (1.0)
+
+DEPENDENCIES:
+  - JDStatusBarNotification (= 1.4.8)
+  - MTStatusBarOverlay (= 0.9.1)
+  - SVProgressHUD (= 1.0)
+
+SPEC CHECKSUMS:
+  JDStatusBarNotification: c68611370dedc0ef865fb0fc1768dfbaf8fd961f
+  MTStatusBarOverlay: f1fef7143ed3e9ce3d2c6ee3f297079e5cab905f
+  SVProgressHUD: 5034c6e22b8c2ca3e09402e48d41ed0340aa1c50
+
+COCOAPODS: 0.33.1
